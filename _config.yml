@@ -1,8 +1,8 @@
-title: Hyde
+title: leokim1178
 description: >-
-  Build your own portfolio <br>
+  개발자 앵태의 블로그입니다 <br>
   with Hyde.
-url: "https://leokim1178.me"
+url: "https://leokim1178.github.io"
 github: leokim1178
 email: leo3179@naver.com
 # google_analytics: <YOUR UA TOKEN>
@@ -11,7 +11,7 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 
 comments:
   enabled: true
-  repo: leokim1178/hyde-comments
+  repo: leokim1178/blog-comments
   issue-term: pathname
   theme: github-light
 

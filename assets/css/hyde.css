@@ -45,7 +45,7 @@ body {
 }
 a {
   text-decoration: none;
-  color: #724cf9;
+  color: #7249cf;
 }
 img {
   display: block;
@@ -457,7 +457,7 @@ img {
 }
 .hyde.jumbotron {
   color: white;
-  background: linear-gradient(45deg, #724cf9 35%, #ca7df9 100%);
+  background: linear-gradient(45deg, #724cf9 35%, #ca7df9 100%); /* 배경컬러 */
   padding: 2rem 0 1.875rem 0;
 }
 .hyde.jumbotron.main {
