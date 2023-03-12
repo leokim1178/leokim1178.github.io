@@ -45,7 +45,7 @@ body {
 }
 a {
   text-decoration: none;
-  color: #7249cf;
+  color: #000046;
 }
 img {
   display: block;
@@ -90,7 +90,7 @@ img {
 }
 .hyde.content blockquote {
   border-radius: 10px;
-  border-left: 7px solid #724cf9;
+  border-left: 7px solid #000046;
   padding-left: 1rem;
 }
 .hyde.content blockquote p {
@@ -133,11 +133,11 @@ img {
   margin-bottom: 0;
 }
 ::-moz-selection {
-  background: #724cf9;
+  background: #000046;
   color: white;
 }
 ::selection {
-  background: #724cf9;
+  background: #000046;
   color: white;
 }
 @media (prefers-color-scheme: dark) {
@@ -457,9 +457,10 @@ img {
 }
 .hyde.jumbotron {
   color: white;
-  background: linear-gradient(45deg, #724cf9 35%, #ca7df9 100%); /* 배경컬러 */
+  background: linear-gradient(45deg, #09203f 0%, #537895 100%); /* 배경컬러 */
   padding: 2rem 0 1.875rem 0;
 }
+
 .hyde.jumbotron.main {
   -webkit-box-flex: 1;
   -ms-flex: 1 0 auto;
@@ -575,20 +576,20 @@ img {
   cursor: pointer;
 }
 .hyde.btn-primary {
-  color: #724cf9;
-  border: 2px solid #724cf9;
+  color: #000046;
+  border: 2px solid #000046;
 }
 .hyde.btn-primary:hover {
   color: white;
-  background-color: #724cf9;
+  background-color: #000046;
 }
 .hyde.btn-secondary {
-  color: #ca7df9;
-  border: 2px solid #ca7df9;
+  color: #1cb5e0;
+  border: 2px solid #1cb5e0;
 }
 .hyde.btn-secondary:hover {
   color: white;
-  background-color: #ca7df9;
+  background-color: #1cb5e0;
 }
 .hyde.btn-light {
   color: white;
@@ -745,7 +746,7 @@ img {
 }
 .hyde.signature .hyde.signature-text .hyde.signature-author span {
   font-weight: 700;
-  color: #724cf9;
+  color: #000046;
 }
 .hyde.signature .hyde.signature-text .hyde.signature-contact {
   font-size: 1rem;
