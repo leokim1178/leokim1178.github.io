@@ -45,7 +45,7 @@ body {
 }
 a {
   text-decoration: none;
-  color: #000046;
+  color: #09203f;
 }
 img {
   display: block;
@@ -90,7 +90,7 @@ img {
 }
 .hyde.content blockquote {
   border-radius: 10px;
-  border-left: 7px solid #000046;
+  border-left: 7px solid #09203f;
   padding-left: 1rem;
 }
 .hyde.content blockquote p {
@@ -133,11 +133,11 @@ img {
   margin-bottom: 0;
 }
 ::-moz-selection {
-  background: #000046;
+  background: #09203f;
   color: white;
 }
 ::selection {
-  background: #000046;
+  background: #09203f;
   color: white;
 }
 @media (prefers-color-scheme: dark) {
@@ -155,11 +155,7 @@ img {
   }
   .hyde.jumbotron {
     color: #f4f4f5 !important;
-    background: linear-gradient(
-      45deg,
-      rgba(114, 76, 249, 0.2) 35%,
-      rgba(202, 125, 249, 0.2) 100%
-    ) !important;
+    background: linear-gradient(45deg, #09203f 0%, #537895 100%) !important;
   }
   .hyde.content {
     color: #eaeaec;
@@ -576,20 +572,20 @@ img {
   cursor: pointer;
 }
 .hyde.btn-primary {
-  color: #000046;
-  border: 2px solid #000046;
+  color: #09203f;
+  border: 2px solid #09203f;
 }
 .hyde.btn-primary:hover {
   color: white;
-  background-color: #000046;
+  background-color: #09203f;
 }
 .hyde.btn-secondary {
-  color: #1cb5e0;
-  border: 2px solid #1cb5e0;
+  color: #537895;
+  border: 2px solid #537895;
 }
 .hyde.btn-secondary:hover {
   color: white;
-  background-color: #1cb5e0;
+  background-color: #537895;
 }
 .hyde.btn-light {
   color: white;
@@ -746,7 +742,7 @@ img {
 }
 .hyde.signature .hyde.signature-text .hyde.signature-author span {
   font-weight: 700;
-  color: #000046;
+  color: #09203f;
 }
 .hyde.signature .hyde.signature-text .hyde.signature-contact {
   font-size: 1rem;
