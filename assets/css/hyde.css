@@ -1,4 +1,4 @@
-/*!
+/* !
  * Hyde v1.1.2 (https://chemistryx.me)
  * Copyright 2022 ChemistryX. All rights reserved.
  * Licensed under MIT (https://github.com/ChemistryX/hyde/blob/master/LICENSE)
@@ -337,6 +337,7 @@ img {
   -webkit-transition: width 0.4s ease;
   transition: width 0.4s ease;
   border-radius: 7px 7px 0 0;
+  transform: translateZ(0);
 }
 .hyde.navbar-parent .hyde.navbar .hyde.nav-item:after {
   content: " ";
@@ -350,6 +351,7 @@ img {
   -webkit-transition: width 0.4s ease;
   transition: width 0.4s ease;
   border-radius: 0 0 7px 7px;
+  transform: translateZ(0);
 }
 .hyde.navbar-parent .hyde.navbar .hyde.nav-item:not(:first-child):hover::before,
 .hyde.navbar-parent .hyde.navbar .hyde.nav-item:not(:first-child):hover::after,
