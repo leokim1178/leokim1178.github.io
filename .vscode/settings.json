@@ -3,96 +3,90 @@
   "gitmoji.showEmojiCode": false,
   "gitmoji.addCustomEmoji": [
     {
-      "emoji": "🐛 BUG /",
-      "code": ":bug:",
-      "description": "버그 수정"
+      "emoji": "✨ ",
+      "code": ":sparkles:",
+      "description": "기능 추가"
     },
     {
-      "emoji": "🔥 DEL /",
+      "emoji": "🗂️ ",
+      "code": ":card_file_box:",
+      "description": "엔티티 추가 및 수정"
+    },
+    {
+      "emoji": "📦 ",
+      "code": ":package:",
+      "description": "라이브러리,패키지 추가"
+    },
+    {
+      "emoji": "🧹 ",
+      "code": ":broom:",
+      "description": "코드 정리"
+    },
+    {
+      "emoji": "🔧 ",
+      "code": ":wrench:",
+      "description": "수정"
+    },
+    {
+      "emoji": "🔥 ",
       "code": ":fire:",
       "description": "파일 삭제"
     },
     {
-      "emoji": "📝 DOCS /",
-      "code": ":memo:",
-      "description": "문서 추가 및 수정"
-    },
-    {
-      "emoji": "♻️ REFACTOR /",
-      "code": ":recycle:",
-      "description": "코드 리팩토링"
-    },
-    {
-      "emoji": "⚙️ CONFIG /",
-      "code": ":wrench:",
-      "description": "설정 파일 추가 및 수정"
-    },
-    {
-      "emoji": "🚚 RENAME /",
+      "emoji": "🚚 ",
       "code": ":truck:",
       "description": "리소스 이동, 이름 변경"
     },
     {
-      "emoji": "⚡️ PERF /",
+      "emoji": "📝 ",
+      "code": ":memo:",
+      "description": "문서 추가 및 수정"
+    },
+    {
+      "emoji": "♻️ ",
+      "code": ":recycle:",
+      "description": "코드 리팩토링"
+    },
+    {
+      "emoji": "⚙️ ",
+      "code": ":wrench:",
+      "description": "설정 파일 추가 및 수정"
+    },
+    {
+      "emoji": "⚡️ ",
       "code": ":zap:",
-      "description": "성능 개선"
+      "description": "리팩토링 및 성능 개선"
     },
     {
-      "emoji": "⏪ REVERT /",
+      "emoji": "⏪ ",
       "code": ":rewind:",
-      "description": "코드 되돌리기"
+      "description": "리버트 및 롤백"
     },
-    { "emoji": "🚀 DEPLOY /", "code": ":rocket:", "description": "배포" },
     {
-      "emoji": "👽 EXTERNAL /",
+      "emoji": "👽 ",
       "code": ":alien:",
       "description": "외부 API 추가 및 수정"
     },
     {
-      "emoji": "✨ FEAT /",
-      "code": ":sparkles:",
-      "description": "새로운 기능 추가"
-    },
-    {
-      "emoji": "🔧 FIX /",
-      "code": ":wrench:",
-      "description": "로직 추가 및 수정"
-    },
-    {
-      "emoji": "🔨 BUILD /",
-      "code": ":hammer:",
-      "description": "빌드, 인프라 관련 파일 수정 (docker, sls, gitlab-ci 등)"
-    },
-    {
-      "emoji": "🧹 CHORE /",
-      "code": ":broom:",
-      "description": "간단하고 큰 의미없는 변경사항"
-    },
-    {
-      "emoji": "🎉 INIT /",
+      "emoji": "🎉 ",
       "code": ":init:",
       "description": "프로젝트 시작"
     },
     {
-      "emoji": "📦 ADD /",
-      "code": ":package:",
-      "description": "패키지 추가"
-    },
-    {
-      "emoji": "🔒 SECURITY /",
+      "emoji": "🔒 ",
       "code": ":lock:",
       "description": "보안 관련 수정"
     },
     {
-      "emoji": "🔖 VERSION /",
+      "emoji": "🔖 ",
       "code": ":bookmark:",
       "description": "버전 태그"
     },
     {
-      "emoji": "🧽 ETC /",
+      "emoji": "🧽 ",
       "code": ":soap:",
       "description": "기타"
     }
   ],
-  "cSpell.words": ["gubun", "Hasura", "ISIN", "Kakao", "Metalogos"]
+  "cSpell.words": ["Datas", "gubun", "ISIN", "Kakao", "Metalogos", "tblid"]
 }
